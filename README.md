@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://i.gifer.com/JXA0.gif" alt="Banner Github">
+</div>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&height=70&lines=Hi+there+%F0%9F%91%8B+I'm+Kamalpreet;Cloud+Engineer+%7C+AWS+AICertified;Corporate+Trainer+%40+Lactalis;Turning+complexity+into+clarity+%E2%98%81%EF%B8%8F" alt="Banner Github">
 </div>
 
