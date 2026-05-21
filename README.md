@@ -21,7 +21,7 @@
 
 ![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-%23000000?style=plastic&logo=amazon-aws&logoColor=white&labelColor=ff4f00) ![Progress Soon](https://img.shields.io/badge/Progress-Soon-%237F5FB3?style=flat-square&labelColor=black)
 
-🏆 **Winner — Week 4 BeSA Program (Become a Solution Architect)** by AWS Experts, 2025
+🏆 **Winner "Cloud Journey Book" — Week 4 BeSA Program (Become a Solution Architect)** by AWS Experts, 2025
 
 
 # **☁️ Cloud & Infrastructure Expertise** : 
